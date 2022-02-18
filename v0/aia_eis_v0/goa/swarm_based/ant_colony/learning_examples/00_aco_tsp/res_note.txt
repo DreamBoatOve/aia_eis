@@ -1,0 +1,62 @@
+results record:
+    Res 0:
+        Started : ACS
+        Ended : ACS
+        Sequence : <- 4 - 9 - 11 - 7 - 15 - 10 - 13 - 8 - 6 - 14 - 3 - 2 - 1 - 12 - 5 ->
+        Total distance travelled to complete the tour : 3279.37
+
+        Started : Elitist
+        Ended : Elitist
+        Sequence : <- 14 - 8 - 13 - 10 - 15 - 7 - 11 - 9 - 4 - 12 - 5 - 1 - 2 - 3 - 6 ->
+        Total distance travelled to complete the tour : 3215.64
+
+        Started : MaxMin
+        Ended : MaxMin
+        Sequence : <- 8 - 6 - 14 - 3 - 1 - 2 - 5 - 12 - 4 - 9 - 11 - 7 - 15 - 10 - 13 ->
+        Total distance travelled to complete the tour : 2962.17
+    Res 1:
+        Started : ACS
+        Ended : ACS
+        Sequence : <- 14 - 5 - 3 - 2 - 13 - 8 - 4 - 6 - 12 - 1 - 10 - 15 - 9 - 7 - 11 ->
+        Total distance travelled to complete the tour : 2100.52
+
+        Started : Elitist
+        Ended : Elitist
+        Sequence : <- 13 - 2 - 3 - 5 - 14 - 11 - 7 - 10 - 9 - 15 - 1 - 12 - 6 - 4 - 8 ->
+        Total distance travelled to complete the tour : 2067.54
+
+        Started : MaxMin
+        Ended : MaxMin
+        Sequence : <- 11 - 7 - 10 - 9 - 15 - 1 - 12 - 6 - 4 - 8 - 13 - 2 - 3 - 5 - 14 ->
+        Total distance travelled to complete the tour : 2067.54
+    Res 2: compared with mine (the same city setting)
+        Started : ACS == Mine without evaporation
+        Ended : ACS
+        Sequence : <- 14 - 5 - 3 - 2 - 13 - 8 - 4 - 6 - 12 - 1 - 10 - 15 - 9 - 7 - 11 ->
+        Total distance travelled to complete the tour : 2100.52
+
+        **Started : Elitist == Mine with evaporation
+        Ended : Elitist
+        Sequence : <- 13 - 2 - 3 - 5 - 14 - 11 - 7 - 10 - 9 - 15 - 1 - 12 - 6 - 4 - 8 ->
+        Total distance travelled to complete the tour : 2067.54
+
+        Started : MaxMin
+        Ended : MaxMin
+        Sequence : <- 5 - 14 - 11 - 7 - 10 - 15 - 9 - 1 - 12 - 6 - 4 - 8 - 13 - 2 - 3 ->
+        Total distance travelled to complete the tour : 2073.73
+
+        Mine acs without evaporation
+        [13, 4, 2, 1, 12, 7, 3, 5, 11, 0, 9, 14, 8, 6, 10]
+        2100.52
+
+        Mine acs with evaporation
+        [0, 11, 5, 3, 7, 12, 1, 2, 4, 13, 10, 6, 9, 8, 14]
+        2067.54
+
+        Mine Elitist
+        [0, 11, 5, 3, 7, 12, 1, 2, 4, 13, 6, 10, 9, 14, 8]
+        2088.98
+
+        Mine Max-Min
+        [13, 4, 2, 1, 12, 7, 3, 5, 11, 0, 9, 14, 8, 6, 10]
+        2100.52

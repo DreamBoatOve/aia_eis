@@ -1,0 +1,2 @@
+2020_04_20_lrc_ovo_linear_alpha_iter_11000_alpha_init_1.0_classifer_dict_pickle_0.file,11000,1.0,0,0.4148936170212766,0.28492392807745504
+2020_04_20_lrc_ovo_linear_alpha_iter_11000_alpha_init_1.0_classifer_dict_pickle_1.file,11000,1.0,1,0.425531914893617,0.2966606623250658

@@ -1,0 +1,31 @@
+-------------------------- First Implementation --------------------------
+CFO在迭代过程中会出停止一段时间的现象
+对于当前的全局最优p_best，p_best拥有最高的fitness，在计算加速度的时候，没有能对其产生加速度的其他探针，所以加速度一直不会被更新，进而位置不会被更新，从而出现停止的现象。
+只有在其余点被其吸引逐渐靠近的时候，产生了新的全局最佳
+
+算法是由效果的，就是收敛特别慢，画图总是出问题，直接记录结果
+iter_time = 500; probe_num_1_dim = 3; dim = 2; probe_num = 9; fit_amplifier = 1000, beta = 2;
+    Best entity position: [-20.0, -20.0]
+    The biggest target is 1000
+    Fitness: 1.2484394506866416
+    迭代太少，算法还没收敛，最优点还是初始化中的最优点
+
+iter_time = 1000; probe_num_1_dim = 3; dim = 2; probe_num = 9; fit_amplifier = 1000, beta = 2;
+    Best entity position: [0.06647389549005567, -0.04395360237316481]
+    The biggest target is 1000
+    Fitness: 993.6893789052059
+
+iter_time = 2000; probe_num_1_dim = 3; dim = 2; probe_num = 9; fit_amplifier = 1000, beta = 2;
+    Best entity position: [0.022731725570579897, 0.0013658519337553798]
+    The biggest target is 1000
+    Fitness: 999.4816719044218
+
+iter_time = 5000; probe_num_1_dim = 3; dim = 2; probe_num = 9; fit_amplifier = 1000, beta = 2;
+    Best entity position: [-0.0059366154785678305, 0.020588683914880335]
+    The biggest target is 1000
+    Fitness: 999.5410734016359
+-------------------------- First Implementation --------------------------
+
+-------------------------- Second Implementation --------------------------
+
+-------------------------- Second Implementation --------------------------

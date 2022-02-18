@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cdaa5bd-a835-468c-bdb8-210e7ff3cc8c" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="FORCE_PUSH_ALLOWED" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1afZUT2Dm4bFe4Fi2cdoGgHjl7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="level&#9;null&#9;null&#10;host&#9;null&#9;null" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\WorkSpaceOfGit\distributed_parallel_fitting_circuit\dpfc_src\plugins_test\jupyter_code\Impedance_test" />
+      <recent name="D:\cs_0\git_prjs\distributed_parallel_fitting_circuit\dpfc_src\playground\liWenChao\eis_data" />
+      <recent name="G:\WorkSpaceOfGit\distributed_parallel_fitting_circuit\dpfc_src\utils\file_utils" />
+      <recent name="E:\WorkSpaceOfGit\distributed_parallel_fitting_circuit\dpfc_src\datasets\goa_datasets\simulated" />
+      <recent name="E:\WorkSpaceOfGit\distributed_parallel_fitting_circuit\dpfc_src\ml_sl\logistic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cs_0\git_prjs\distributed_parallel_fitting_circuit\dpfc_src\playground\laiZhaoGui\goa\AD_Fit_Res\phase" />
+      <recent name="G:\WorkSpaceOfGit\distributed_parallel_fitting_circuit\dpfc_src\playground\laiZhaoGui\goa\AD_Fit_Res" />
+      <recent name="D:\cs_0\git_prjs\distributed_parallel_fitting_circuit\dpfc_src\loa\g_n" />
+      <recent name="D:\cs_0\git_prjs\distributed_parallel_fitting_circuit\dpfc_src\playground\liuPeng\eis_data_removed" />
+      <recent name="D:\git_prjs\distributed_parallel_fitting_circuit\dpfc_src\playground\liuPeng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AD_Fit">
+    <configuration name="AD_Fit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dpfc_src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Python\Python\Pythov3.6.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playground/laiZhaoGui/goa" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playground/laiZhaoGui/goa/AD_Fit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IS_AD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dpfc_src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a_d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a_d/IS_AD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getLaiVogitAddC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dpfc_src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playground/laiZhaoGui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playground/laiZhaoGui/getLaiVogitAddC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ny_AD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dpfc_src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a_d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a_d/ny_AD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ny_multiPoints_AD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dpfc_src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a_d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a_d/ny_multiPoints_AD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ny_multiPoints_AD" />
+      <item itemvalue="Python.IS_AD" />
+      <item itemvalue="Python.ny_AD" />
+      <item itemvalue="Python.AD_Fit" />
+      <item itemvalue="Python.getLaiVogitAddC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AD_Fit" />
+        <item itemvalue="Python.getLaiVogitAddC" />
+        <item itemvalue="Python.ny_AD" />
+        <item itemvalue="Python.IS_AD" />
+        <item itemvalue="Python.ny_multiPoints_AD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cdaa5bd-a835-468c-bdb8-210e7ff3cc8c" name="Default" comment="" />
+      <created>1547916729760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547916729760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/fittness_functions/fitness_pack.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis_pack/ga_results_analysis_util.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis_pack/ga_results_analysis_util.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis_pack/ga_results_analysis_util.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis_pack/ga_results_analysis_util.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis_pack/ga_results_analysis_util.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/using_generators_as_an_alternative_to_threads/actorsched.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SA_pack/demos/sa_demo_0.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_start_and_stop_threads/example.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_start_and_stop_threads/example.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_start_and_stop_threads/example.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_start_and_stop_threads/example.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/py_cookbook/ch12/how_to_determine_if_a_thread_has_started/example2.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/GAs/hybrid/sga_sa.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/thread_test_1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/threads_tests/threads_test_0.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/jupyter_code/ml_pyspark/pycharm/ch04/ch04.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/jupyter_code/ml_pyspark/pycharm/ch04/ch04.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/ml/feature.py</url>
+          <line>2792</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/ml/base.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/ml/wrapper.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/sql/utils.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/py4j/protocol.py</url>
+          <line>327</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/jupyter_code/ml_pyspark/pycharm/ch06/ch06.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/jupyter_code/ml_pyspark/pycharm/ch06/ch06.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/jupyter_code/ml_pyspark/pycharm/ch06/ch06.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/ml/wrapper.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/ml/wrapper.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/py4j/java_gateway.py</url>
+          <line>1256</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/pyspark/context.py</url>
+          <line>367</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/pop_prompt_test.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/pop_prompt_test.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/00_aco_tsp/aco_tsp.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/asp_tsp_0.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/asp_tsp_0.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/learning_examples/asp_tsp_0.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/aco_continous_domain/acs_cd.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/aco_continous_domain/acs_cd.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/aco_continous_domain/acs_cd.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/aco_continous_domain/acs_cd.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/aco_continous_domain/acs_cd.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/ant_colony/aco_continous_domain/acs_cd.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/evolution_based/evolution_programming/meta_ep_0.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/evolution_based/evolution_programming/meta_ep_0.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/evolution_based/evolution_programming/meta_ep_0.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/evolution_based/evolution_programming/meta_ep_0.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/reader_2.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/sec_reader_0.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/sec_reader_0.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/sec_reader_0.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/sec_reader_0.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/sec_reader_0.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/causal_tests/excel_reader/sec_reader_0.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/knn/distance_pack/dynamic_time_warping.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/knn/distance_pack/dynamic_time_warping.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/knn/distance_pack/pearson_correlation.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/nbc/nbc_0.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/swarm_based/grey_wolf_optimizer/gwo_eis_main_0.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="661" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/fittness_functions/eis_fitness.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="672" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/fittness_functions/eis_fitness.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="678" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/fittness_functions/eis_fitness.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/fittness_functions/eis_fitness.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="680" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/GOA_criterions.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="689" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/GOA_criterions.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="694" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/nbc/nbc_0.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="699" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/nbc/nbc_0.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="700" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/logistic/lrc_0.py</url>
+          <line>341</line>
+          <option name="timeStamp" value="720" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/logistic/vs_SK/plot_iris_logistic.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="722" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/rf/dt_0.py</url>
+          <line>233</line>
+          <option name="timeStamp" value="759" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/file_utils/data_corrector/ml_data_corrector.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="794" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/refers/heatmap/heatmap_annotation.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="801" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/refers/heatmap/heatmap_annotation.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="802" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/svm/svm_0.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="861" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/svm/svm_0.py</url>
+          <line>350</line>
+          <option name="timeStamp" value="864" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/swarm_based/whale_optimization_algorithm/woa_0.py</url>
+          <line>359</line>
+          <option name="timeStamp" value="938" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/evolution_based/genetic_alg/cga_0.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="984" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/evolution_based/genetic_alg/cga_0.py</url>
+          <line>403</line>
+          <option name="timeStamp" value="989" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/refers/parallele_coordinate_tests/plotly_tests.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="995" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/file_utils/data_corrector/ml_data_corrector.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="1000" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/file_utils/data_corrector/ml_data_corrector.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="1001" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/file_utils/data_corrector/ml_data_corrector.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="1002" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/file_utils/dataset_reader_pack/goa_dataset_reader.py</url>
+          <line>44</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/laiZhaoGui/goa/GOAs_fit_EIS_0.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Python/python_installation/Lib/site-packages/matplotlib/pyplot.py</url>
+          <line>722</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>796</line>
+          <option name="timeStamp" value="1041" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>848</line>
+          <option name="timeStamp" value="1046" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>767</line>
+          <option name="timeStamp" value="1047" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/fuzzy_curve_plots.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="1077" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py</url>
+          <line>1769</line>
+          <option name="timeStamp" value="1078" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/refers/3D_plots/surface3d.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="1080" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/refers/3D_plots/surface3d.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="1081" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/integration/goa_intergration.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="1129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/integration/goa_intergration.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="1130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/laiZhaoGui/goa/GOAs_fit_EIS_1.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="1136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/integration/goa_intergration.py</url>
+          <line>243</line>
+          <option name="timeStamp" value="1138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>558</line>
+          <option name="timeStamp" value="1141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/refers/contour/pcolormesh_levels.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/two_vertical_contour.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="1174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/two_vertical_contour.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="1175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/two_vertical_contour.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="1176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/adaboost/ab_main.py</url>
+          <line>631</line>
+          <option name="timeStamp" value="1181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/adaboost/ab_main.py</url>
+          <line>630</line>
+          <option name="timeStamp" value="1185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/adaboost/ab_main.py</url>
+          <line>614</line>
+          <option name="timeStamp" value="1189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/post_process/lime_utils.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/post_process/lime_utils.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="1225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/shareX_2Y_plots.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="1246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_sl/rf/rf_main.py</url>
+          <line>311</line>
+          <option name="timeStamp" value="1248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/shareX_2Y_plots.py</url>
+          <line>339</line>
+          <option name="timeStamp" value="1251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>606</line>
+          <option name="timeStamp" value="1260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/global_optimizations/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>595</line>
+          <option name="timeStamp" value="1261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GA_pack/fittness_functions/eis_fitness.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="1262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/laiZhaoGui/goa/GOAs_fit_EIS_2.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="1280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/goa_radar_plots.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="1283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/goa_radar_plots.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="1284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/goa_radar_plots.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="1285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/post_process/goa_score.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="1288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/post_process/goa_score.py</url>
+          <line>193</line>
+          <option name="timeStamp" value="1298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="1307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="1308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="1309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>275</line>
+          <option name="timeStamp" value="1310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_processor/ml_preprocessor/low_dim_2_high_dim.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="1311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/liWenChao/goa_fit_eis_0.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="1330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/liuPeng/goa_fit_eis_0.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="1350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>601</line>
+          <option name="timeStamp" value="1377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>823</line>
+          <option name="timeStamp" value="1378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>824</line>
+          <option name="timeStamp" value="1379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>834</line>
+          <option name="timeStamp" value="1380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>835</line>
+          <option name="timeStamp" value="1381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>840</line>
+          <option name="timeStamp" value="1382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>839</line>
+          <option name="timeStamp" value="1383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>841</line>
+          <option name="timeStamp" value="1384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>844</line>
+          <option name="timeStamp" value="1385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>847</line>
+          <option name="timeStamp" value="1386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>581</line>
+          <option name="timeStamp" value="1387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/human_based/imperialist_competitive_alg/ica_0.py</url>
+          <line>582</line>
+          <option name="timeStamp" value="1388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/liuPeng/analyser_0.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/adaboost/ab_main.py</url>
+          <line>626</line>
+          <option name="timeStamp" value="1405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/adaboost/ab_main.py</url>
+          <line>613</line>
+          <option name="timeStamp" value="1406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/rf/rf_main.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="1407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/norm_dis_plots.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="1418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/ml_boxplot_utils.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="1419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/post_process/ml_post_process.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="1420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/remove_bad_points_plots.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="1421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/visualize_utils/remove_bad_points_plots.py</url>
+          <line>297</line>
+          <option name="timeStamp" value="1425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/g_n/refers/g_n_refer_0/gn_solver.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/g_n/refers/g_n_refer_0/gn_solver.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="1435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/g_n/refers/g_n_refer_0/gn_solver.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="1440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/g_n/refers/g_n_refer_0/main.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/g_n/refers/g_n_refer_0/gn_solver.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="1443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/lmfit_tests/doc_fitting_withreport.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/printfuncs.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="1448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>2589</line>
+          <option name="timeStamp" value="1449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>2329</line>
+          <option name="timeStamp" value="1450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>723</line>
+          <option name="timeStamp" value="1451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>834</line>
+          <option name="timeStamp" value="1453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>844</line>
+          <option name="timeStamp" value="1454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>849</line>
+          <option name="timeStamp" value="1455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>789</line>
+          <option name="timeStamp" value="1456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>790</line>
+          <option name="timeStamp" value="1457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python/install/Lib/site-packages/lmfit/minimizer.py</url>
+          <line>791</line>
+          <option name="timeStamp" value="1458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="1469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/refers/l_m_refer_0/l_m.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="1489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/refers/l_m_refer_0/l_m.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="1496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>198</line>
+          <option name="timeStamp" value="1535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="1536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>596</line>
+          <option name="timeStamp" value="1543" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>598</line>
+          <option name="timeStamp" value="1544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="1583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="1584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="1586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="1598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IS/IS_criteria.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="1599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="1609" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="1615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="1616" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>627</line>
+          <option name="timeStamp" value="1669" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>573</line>
+          <option name="timeStamp" value="1674" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1686" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_tests.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1688" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Python/Python/Pythov3.6.1/Lib/site-packages/impedance/validation.py</url>
+          <line>249</line>
+          <option name="timeStamp" value="1693" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Python/Python/Pythov3.6.1/Lib/site-packages/impedance/validation.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="1694" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Python/Python/Pythov3.6.1/Lib/site-packages/impedance/models/circuits/elements.py</url>
+          <line>358</line>
+          <option name="timeStamp" value="1696" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins_test/jupyter_code/Impedance_test/zzy_tests.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1697" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>193</line>
+          <option name="timeStamp" value="1700" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>313</line>
+          <option name="timeStamp" value="1704" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>346</line>
+          <option name="timeStamp" value="1706" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="1708" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>389</line>
+          <option name="timeStamp" value="1710" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_0.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="1722" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_tests.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1735" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loa/l_m/l_m_0.py</url>
+          <line>566</line>
+          <option name="timeStamp" value="1738" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Python/Python/Pythov3.6.1/Lib/site-packages/impedance/validation.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="1746" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../Python/Python/Pythov3.6.1/Lib/site-packages/impedance/validation.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="1747" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/vogit_1.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="1755" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/smoothAlg/SavitzkyGolay.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1761" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>322</line>
+          <option name="timeStamp" value="1775" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>323</line>
+          <option name="timeStamp" value="1776" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>326</line>
+          <option name="timeStamp" value="1777" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>327</line>
+          <option name="timeStamp" value="1778" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>330</line>
+          <option name="timeStamp" value="1779" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="1780" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>335</line>
+          <option name="timeStamp" value="1781" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>341</line>
+          <option name="timeStamp" value="1783" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>342</line>
+          <option name="timeStamp" value="1784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm_simulator.py</url>
+          <line>343</line>
+          <option name="timeStamp" value="1786" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a_d/absZ_AD_0.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="1849" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a_d/phase_AD_0.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="1854" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a_d/phase_AD_0.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="1856" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a_d/ny_AD.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="1857" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/integration/goa_intergration.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="1880" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/integration/goa_intergration.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="1881" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goa/integration/goa_intergration.py</url>
+          <line>249</line>
+          <option name="timeStamp" value="1882" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/playground/laiZhaoGui/getLaiVogitAddC.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1886" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/circuits/ecm.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="1888" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="lai_manual_fit_res_dict" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

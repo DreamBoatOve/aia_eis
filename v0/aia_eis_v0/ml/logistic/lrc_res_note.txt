@@ -1,0 +1,13 @@
+results folder:
+    linear_alpha_res
+    stable_alpha_res
+        1
+            按照流程训练LRC，结果很差
+        2
+            迭代次数只有10次，用于debug程序测试的中间结果
+    mine_lrc_vs_SciKit_lr_plots
+        比较自己写的LRC和Scikit-Learning-LogisticRegression
+            测试数据是Machine Learning in Action 第五章的testSet
+            当梯度下降的学习率为线性递减时，我的LRC和Scikit性能基本一致
+    test_res
+        刚写完二分类的LRC，自己手动编造一些可线性分割和不可线性分割的测试数据点上的测试结果

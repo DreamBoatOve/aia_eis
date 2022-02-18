@@ -1,0 +1,9 @@
+iter_time = 50; element_num = 10; dim = 2
+    Best element position: [0.07450409317814638, -0.5381770655434961]
+    Fitness: 0.2951854137773064
+iter_time = 50; element_num = 10; dim = 4
+    Best element position: [-1.2871288870648203, 10.254706589305297, -16.325563683862885, 15.167489544362914]
+    Fitness: 603.3924766788792
+iter_time = 100; element_num = 10; dim = 4
+    Best element position: [1.4294994199744557, 0.3184082641297395, -2.488677572593431, -0.9866233631924932]
+    Fitness: 9.311794135500216
