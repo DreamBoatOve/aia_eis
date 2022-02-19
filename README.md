@@ -1,6 +1,8 @@
 # Automated Intelligent Analyzer of Electrochemical Impedance Spectroscopy (AIA-EIS)
+## Vision
+Build a web-based, scientific, open, automated EIS analyze platform
 ## Contributors
-Zhaoyang Zhao b20170427@xs.ustb.edu.cn, Hui Zhi neu3dmaker@163.com
+Zhaoyang Zhao b20170427@xs.ustb.edu.cn, Hui Zhi neu3dmaker@163.com, Peng Liu
 ## Versions
 ### V0
 #### Status
