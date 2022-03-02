@@ -1,7 +1,7 @@
 import os
 import pickle
 
-from ml.ml_data_wrapper import point_2_x_y
+from ml_sl.ml_data_wrapper import point_2_x_y
 
 """
 Dataset used for ML is stored at prj/datasets/ml_datasets/normed

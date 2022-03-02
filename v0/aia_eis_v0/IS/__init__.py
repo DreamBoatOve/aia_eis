@@ -1,3 +1,0 @@
-"""
-IS: Impedance Spectrum
-"""

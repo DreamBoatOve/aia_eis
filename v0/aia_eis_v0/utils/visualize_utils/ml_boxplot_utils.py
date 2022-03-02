@@ -223,7 +223,7 @@ def binary_boxplot_excel(excel_abs_path, boxplot_dict, sheet_name1, para_dict1, 
                                                                excel_abs_path=excel_abs_path)
 
     df1 = pd.DataFrame(columns=['AK', 'Base Learner Number', 'ML'])
-    ml1_name = para_dict1['ml']
+    ml1_name = para_dict1['ml_sl']
     i1 = 0
     for data1, label1 in zip(data1_list, label1_list):
         for d in data1:
@@ -232,7 +232,7 @@ def binary_boxplot_excel(excel_abs_path, boxplot_dict, sheet_name1, para_dict1, 
             i1 += 1
 
     df2 = pd.DataFrame(columns=['AK', 'Base Learner Number', 'ML'])
-    ml2_name = para_dict2['ml']
+    ml2_name = para_dict2['ml_sl']
     i2 = 0
     for data2, label2 in zip(data2_list, label2_list):
         for d in data2:
@@ -268,7 +268,7 @@ def binary_boxplot_excel(excel_abs_path, boxplot_dict, sheet_name1, para_dict1, 
     plt.show()
 # ---------------------------------- RF & AB Boxplot ----------------------------------
 # 最新版本的xlrd不支持excel.xlsx, 只支持excel.xls，所以重新保存一份xls格式的文件
-# excel_abs_path = '../../ml/ml_training_records.xlsx'
+# excel_abs_path = '../../ml_sl/ml_training_records.xlsx'
 # boxplot_dict = {
 #     'figsize': (16, 9),
 #     'x_label': 'Base Learner Number',
@@ -279,14 +279,14 @@ def binary_boxplot_excel(excel_abs_path, boxplot_dict, sheet_name1, para_dict1, 
 #     'table_start_row': 3,
 #     'table_start_col': 0,
 #     'acc_kappa_margin': 4,
-#     'ml':'RF'
+#     'ml_sl':'RF'
 # }
 # ab_sheet_name2 = 'AdaBoost'
 # ab_para_dict2 = {
 #     'table_start_row': 3,
 #     'table_start_col': 0,
 #     'acc_kappa_margin':5,
-#     'ml':'AB'
+#     'ml_sl':'AB'
 # }
 # binary_boxplot_excel(excel_abs_path=excel_abs_path, boxplot_dict=boxplot_dict,
 #                sheet_name1=rf_sheet_name1, para_dict1=rf_para_dict1,
@@ -295,8 +295,8 @@ def binary_boxplot_excel(excel_abs_path, boxplot_dict, sheet_name1, para_dict1, 
 
 # ---------------------------------- LRC-OvO-Stable & LRC-OvR-Stable Boxplot ----------------------------------
 # 最新版本的xlrd不支持excel.xlsx, 只支持excel.xls，所以重新保存一份xls格式的文件 再去操作
-# excel_abs_path = '../../ml/ml_training_records.xlsx'
-excel_abs_path = '../../ml/ml_training_records.xls'
+# excel_abs_path = '../../ml_sl/ml_training_records.xlsx'
+excel_abs_path = '../../ml_sl/ml_training_records.xls'
 boxplot_dict = {
     'figsize': (16, 9),
     'x_label': 'Iteration',
@@ -307,14 +307,14 @@ lrc_ovo_stable_para_dict1 = {
     'table_start_row': 3,
     'table_start_col': 0,
     'acc_kappa_margin': 5,
-    'ml':'LRC-OvO-Stable'
+    'ml_sl':'LRC-OvO-Stable'
 }
 lrc_ovr_stable_sheet_name2 = 'LRC'
 lrc_ovr_stable_para_dict2 = {
     'table_start_row': 3,
     'table_start_col': 21,
     'acc_kappa_margin': 5,
-    'ml':'LRC-OvR-Stable'
+    'ml_sl':'LRC-OvR-Stable'
 }
 binary_boxplot_excel(excel_abs_path=excel_abs_path, boxplot_dict=boxplot_dict,
                sheet_name1=lrc_ovo_stable_sheet_name1, para_dict1=lrc_ovo_stable_para_dict1,

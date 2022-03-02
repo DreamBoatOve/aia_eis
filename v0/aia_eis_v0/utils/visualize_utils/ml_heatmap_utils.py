@@ -94,13 +94,13 @@ def lrc_heatmap(txt_file_path, axis_title_list):
 
     plt.show()
 # ----------------- Draw Heatmap for LRC-OvO-Linear (Iteration and C) -----------------
-# txt_filename = '../../ml/logistic/ovo_res/linear/plots/2020_04_22_lrc_ovo_linear_avg_res_0.txt'
+# txt_filename = '../../ml_sl/logistic/ovo_res/linear/plots/2020_04_22_lrc_ovo_linear_avg_res_0.txt'
 # lrc_heatmap(txt_file_path = txt_filename,
 #             axis_title_list = ['Iteration', 'Learning Rate', 'AK'])
 # ----------------- Draw Heatmap for LRC-OvO-Linear (Iteration and C) -----------------
 
 # ----------------- Draw Heatmap for LRC-OvR-Linear (Iteration and C) -----------------
-txt_filename = '../../ml/logistic/ovr_res/linear/plots/2020_05_07_lrc_ovr_linear_avg_res.txt'
+txt_filename = '../../ml_sl/logistic/ovr_res/linear/plots/2020_05_07_lrc_ovr_linear_avg_res.txt'
 lrc_heatmap(txt_file_path = txt_filename,
             axis_title_list = ['Iteration', 'Learning Rate', 'AK'])
 # ----------------- Draw Heatmap for LRC-OvR-Linear (Iteration and C) -----------------
@@ -170,7 +170,7 @@ def knn_heatmap(txt_file_path, axis_title_list):
 
     plt.show()
 # ----------------- Draw Heatmap for KNN (Distance Measure and K) -----------------
-# knn_heatmap(txt_file_path='../../ml/knn/plots/2020_11_23_KNN_GS_res.txt',
+# knn_heatmap(txt_file_path='../../ml_sl/knn/plots/2020_11_23_KNN_GS_res.txt',
 #             axis_title_list=['Distance Measure', 'Nearest Neighbors Number (K)', 'AK'])
 # ----------------- Draw Heatmap for KNN (Distance Measure and K) -----------------
 
@@ -246,16 +246,16 @@ def svm_heatmap(txt_file_path, axis_title_list, para0_index=0, para1_index=1, ta
 
     plt.show()
 # ----------------- Draw Heatmap for SVM-OvO-Linear (max_iter and C) -----------------
-# svm_heatmap(txt_file_path='../../ml/svm/ovo_txt_res/trained_on_tr_tested_on_vali/avg_res_and_plots/2020_06_24_svm_ovo_linear_gs_avg_res.txt',
+# svm_heatmap(txt_file_path='../../ml_sl/svm/ovo_txt_res/trained_on_tr_tested_on_vali/avg_res_and_plots/2020_06_24_svm_ovo_linear_gs_avg_res.txt',
 #             axis_title_list=['Iteration', 'C', 'AK'])
 # ----------------- Draw Heatmap for SVM-OvO-Linear (max_iter and C) -----------------
 
 # ----------------- Draw Heatmap for SVM-OvR-Linear (max_iter and C) -----------------
-# svm_heatmap(txt_file_path='../../ml/svm/ovr_txt_res/trained_on_tr_tested_on_vali/avg_res_and_plots/2020_06_24_svm_ovr_linear_gs_avg_res.txt',
+# svm_heatmap(txt_file_path='../../ml_sl/svm/ovr_txt_res/trained_on_tr_tested_on_vali/avg_res_and_plots/2020_06_24_svm_ovr_linear_gs_avg_res.txt',
 #             axis_title_list=['Iteration', 'C', 'AK'])
 # ----------------- Draw Heatmap for SVM-OvR-Linear (max_iter and C) -----------------
 
 # ----------------- Draw Heatmap for SVM-OvO-Poly (max_iter and C) -----------------
-# svm_heatmap(txt_file_path='../../ml/svm/ovo_txt_res/trained_on_tr_tested_on_vali/avg_res_and_plots/2020_06_25_svm_ovo_poly_gs_avg_res.txt',
+# svm_heatmap(txt_file_path='../../ml_sl/svm/ovo_txt_res/trained_on_tr_tested_on_vali/avg_res_and_plots/2020_06_25_svm_ovo_poly_gs_avg_res.txt',
 #             axis_title_list=['Iteration', 'C', 'AK'])
 # ----------------- Draw Heatmap for SVM-OvO-Poly (max_iter and C) -----------------
